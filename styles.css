@@ -16,6 +16,7 @@ div.nav-bar {
     padding: 1rem 6rem;
     width: 100vw;
     background: #304353;
+    
 }
 
 div.logo {
@@ -415,7 +416,7 @@ div.footer h6 {
 
   }
 
-  @media screen and (max-width: 480px) {
+  @media screen and (max-width: 590px) {
 
     ul.nav-links {
       margin-top: 70px;
